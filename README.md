@@ -2,7 +2,7 @@
 
 ### Bachelor's Degree Software Engineering at Firat University
 
-- 🤔 My interest lies in back-end development, Data Science, Machine Learning, Deep Learning
+- 🤔 My interest, back-end development, Data Science, Machine Learning
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 - 📫 **uysal.meh0@gmail.com**
 
